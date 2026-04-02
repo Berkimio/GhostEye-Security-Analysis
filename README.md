@@ -54,3 +54,7 @@ Bu projeyi analiz eden bir uzman şu defansif çıkarımları yapabilir:
     Kodun başındaki TELEGRAM_BOT_TOKEN ve TELEGRAM_CHAT_ID alanlarını kendi test botunuzla doldurun.
 
     DİKKAT: Bu işlemi sadece kendi kontrolünüzdeki bir sanal makinede (VM) gerçekleştirin.
+
+📄 Lisans
+
+Bu proje MIT License ile lisanslanmıştır.
